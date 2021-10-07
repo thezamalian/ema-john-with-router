@@ -17,4 +17,5 @@
 }
 .header nav a:hover{
     background-color: lightgray;
+    color: black;
 }
